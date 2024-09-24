@@ -8,7 +8,7 @@ The Vrinda Store aims to create an annual sales report for 2022, allowing the ow
 
 ## **Dataset Used**
 
-- [Vrinda Store Data](https://github.com/tusharjkhapre/Vrinda-Store-Dataset-Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+- [Vrinda Store Data](https://github.com/VishalHYadav/Vrinda-Store-Data-Analysis-using-Excel/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ## **Key Performance Indicators (KPIs)**
 
@@ -30,7 +30,7 @@ The Vrinda Store aims to create an annual sales report for 2022, allowing the ow
 
 ## **Dashboard Overview**
 
-![Vrinda Store Dashboard](https://github.com/tusharjkhapre/Vrinda-Store-Dataset-Analysis/blob/main/Vrinda%20Store%20Dashboard.png) <!-- Replace with the actual dashboard image link -->
+![Vrinda Store Dashboard](https://github.com/VishalHYadav/Vrinda-Store-Data-Analysis-using-Excel/blob/main/Vrinda%20Store%20Dashboard.png) <!-- Replace with the actual dashboard image link -->
 
 ## **Skills Used**
 
